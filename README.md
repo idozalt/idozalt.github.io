@@ -1,2 +1,3 @@
 # theidozrepo
-just contains the website files.
+Welcome!
+This website is under development...
