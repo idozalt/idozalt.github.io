@@ -1,9 +1,8 @@
 # Home
-Welcome!
-This website is under lots of development...
+How to play the games:
 
-Hopefully It will host lots of games!
-
+As you can see the link to this website is idozalt.github.io to play a game find what game you want to play and put it like this: idozalt.github.io/run3
 **Games:**
 
-[Minecraft] (/docs/EaglercraftX_1.8_u53_Offline_Signed.html/) 
+
+EaglercraftX_1.8_u53_Offline_Signed.html
